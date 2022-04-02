@@ -1,10 +1,22 @@
-# rick_and_morty
+# Reto SquadMakers
 
-## Project setup
+```
+Framework utilizado Vuejs
+```
+```
+Framework CSS Buefy (Bulma Vuejs)
+```
+```
+Framework CSS Buefy (Bulma Vuejs)
+```
+## Instalar proyecto
 ```
 npm install
 ```
+```
+Version NodeJs 14.8.13
 
+```
 ### Compiles and hot-reloads for development
 ```
 npm run serve
