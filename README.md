@@ -6,9 +6,6 @@ Framework utilizado Vuejs
 ```
 Framework CSS Buefy (Bulma Vuejs)
 ```
-```
-Framework CSS Buefy (Bulma Vuejs)
-```
 ## Instalar proyecto
 ```
 npm install
